@@ -26,8 +26,6 @@ Para preparar el sistema e instalar las herramientas necesarias, ejecuta el coma
 
 #!/bin/bash
 Clonar el repositorio
-git clone https://github.com/ejemplo/era.git
-
 Acceder al directorio e instalar dependencias
 cd era
 pip3 install -r requirements.txt
