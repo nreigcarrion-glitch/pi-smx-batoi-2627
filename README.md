@@ -14,11 +14,11 @@ Entorno de ejecución: Linux (Ubuntu Server / Debian)
 Scripting: Bash
 Control de versiones: Git y GitHub
 # Equipos y dispositivos
-| Dispositivo | Función | Sistema Operativo | Consumo Promedio | Estado |
+| Dispositivo | Función | Sistema Operativo | Consumo Promedio |
 | :--- | :--- | :--- | :---: | :---: |
-| **Raspberry Pi 4** | Servidor central | Raspberry Pi OS | ~5W | 🟢 Activo |
-| **Servidor HomeLab** | Procesamiento y datos | Ubuntu Server 22.04 | ~45W | 🟢 Activo |
-| **ESP32 NodeMCU** | Sensor de temperatura | Firmware C++ Custom | ~0.5W | 🟡 Pruebas |
+| **Raspberry Pi 4** | Servidor central | Raspberry Pi OS | ~5W | 
+| **Servidor HomeLab** | Procesamiento y datos | Ubuntu Server 22.04 | ~45W | 
+| **ESP32 NodeMCU** | Sensor de temperatura | Firmware C++ Custom | ~0.5W | 
 # Recursos e imágenes
 <img width="416" height="737" alt="image" src="https://github.com/user-attachments/assets/3610f555-9492-4c5d-b5c7-d1efd6beea88" />
 # Instalación
